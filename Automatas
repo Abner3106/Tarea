@@ -1,0 +1,13 @@
+package Tarea;
+/**
+ *
+ * @author abner
+ */
+public class TareaAutomatas
+{
+    public static void main(String[] args) 
+    {
+        
+        System.out.print("Hola Mundo");
+    }   
+}
